@@ -21,9 +21,13 @@
     <div class="bg-black">
       <brands />
     </div>
+
     <!-- Albums Section -->
     <div>
       <albums />
+    </div>
+    <div>
+      <AboutPub />
     </div>
     <!-- Subscription Section -->
     <div>
